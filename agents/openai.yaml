@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书图文发布"
+  short_description: "稳定上传图文、处理原创声明、完成发布并核验笔记状态"
+  default_prompt: "Use $publish-xiaohongshu-note to publish this prepared Xiaohongshu image note safely and verify the result."
